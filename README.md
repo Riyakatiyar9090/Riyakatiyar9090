@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Solving DSA problems daily on LeetCode, Codeforces, and GFG.<br>Preparing for coding interviews by mastering core data structures.<br>🤝 I’m looking to collaborate on<br>DSA practice groups, competitive programming contests, and mock interview sessions to improve problem-solving skills.<br>🤔 I’m looking for help with<br>Advanced topics like Segment Trees, DP on Trees, and Graph Algorithms.<br>🌱 I’m currently learning<br>Dynamic Programming, Greedy Algorithms, Competitive Programming techniques, and multiple approaches to solve questions on arrays, strings, trees, stacks, and queues.<br>⚡ Fun fact<br>I love challenges — if I can't solve a problem, I take it personally! I try every possible approach and keep thinking, “How can this question not be solvable by me?” 💪🧠<br><br><br><br>
+🔭 I<h4>’m currently working on</h4><br>Solving DSA problems daily on LeetCode, Codeforces, and GFG.<br>Preparing for coding interviews by mastering core data structures.<br>🤝 <h4>I’m looking to collaborate on</h4><br>DSA practice groups, competitive programming contests, and mock interview sessions to improve problem-solving skills.<br>🤔<h4> I’m looking for help with</h4><br>Advanced topics like Segment Trees, DP on Trees, and Graph Algorithms.<br>🌱 <h4>I’m currently learning</h4><br>Dynamic Programming, Greedy Algorithms, Competitive Programming techniques, and multiple approaches to solve questions on arrays, strings, trees, stacks, and queues.<br>⚡<h4> Fun fact</h4><br>I love challenges — if I can't solve a problem, I take it personally! I try every possible approach and keep thinking, “How can this question not be solvable by me?” 💪🧠<br><br><br><br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyakatiyar9090&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Riyakatiyar9090&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Riyakatiyar9090&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Riyakatiyar9090&limit=5&theme=dark&combine_all_yearly_contributions=true)
