@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I am Riya:
 🔭 I’m currently working on<br>Solving DSA problems daily on LeetCode, Codeforces, and GFG.<br>Preparing for coding interviews by mastering core data structures.<br>🤝 I’m looking to collaborate on<br>DSA practice groups, competitive programming contests, and mock interview sessions to improve problem-solving skills.<br>🤔 I’m looking for help with<br>Advanced topics like Segment Trees, DP on Trees, and Graph Algorithms.<br>🌱 I’m currently learning<br>Dynamic Programming, Greedy Algorithms, Competitive Programming techniques, and multiple approaches to solve questions on arrays, strings, trees, stacks, and queues.<br>⚡ Fun fact<br>I love challenges — if I can't solve a problem, I take it personally! I try every possible approach and keep thinking, “How can this question not be solvable by me?” 💪🧠<br><br><br><br>
 
 
