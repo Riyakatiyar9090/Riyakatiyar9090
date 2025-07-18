@@ -6,9 +6,6 @@
 <br>
 <br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riya-katiyar-274a54240/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@katiyarriya4532) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Riyakatiyar90) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katiyarriya4532@gmail.com) 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riya-katiyar-274a54240/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@katiyarriya4532) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Riyakatiyar90) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katiyarriya4532@gmail.com) 
