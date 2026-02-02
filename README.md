@@ -1,32 +1,25 @@
 ## 💫 Hey, I am Riya:
-🔭 <b>I’m currently working on</b><br>Solving DSA problems daily on LeetCode, Codeforces, and GFG.<br>Preparing for coding interviews by mastering core data structures.<br>🤝<b> I’m looking to collaborate on</b><br>DSA practice groups, competitive programming contests, and mock interview sessions to improve problem-solving skills.<br>🤔 <b>I’m looking for help with</b><br>Advanced topics like Segment Trees, DP on Trees, and Graph Algorithms.<br>🌱<b> I’m currently learning</b><br>Dynamic Programming, Greedy Algorithms, Competitive Programming techniques, and multiple approaches to solve questions on arrays, strings, trees, stacks, and queues.<br>⚡<b> Fun fact</b><br>I love challenges — if I can't solve a problem, I take it personally! I try every possible approach and keep thinking, “How can this question not be solvable by me?” 💪🧠<br><br><br><br>
-
-<p dir="auto">📊 <strong>Profile Views:</strong><br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/81e7235536c1676a3e08ad420d3e64d8237a07e9fc6894e2bd7cfaaeb0e4a0b1/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616268696e6176323331323230323132333426636f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/81e7235536c1676a3e08ad420d3e64d8237a07e9fc6894e2bd7cfaaeb0e4a0b1/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616268696e6176323331323230323132333426636f6c6f723d626c7565" alt="Profile Views" data-canonical-src="https://komarev.com/ghpvc/?username=abhinav23122021234&amp;color=blue" style="max-width: 100%;"></a></p>
-<br>
-<br>
+# 💫 About Me:
+🔭 I’m currently working on<br>Solving DSA problems daily on LeetCode, Codeforces, and GFG.<br>Preparing for coding interviews by mastering core data structures.<br>🤝 I’m looking to collaborate on<br>DSA practice groups, competitive programming contests, and mock interview sessions to improve problem-solving skills.<br>🤔 I’m looking for help with<br>Advanced topics like Segment Trees, DP on Trees, and Graph Algorithms.<br>🌱 I’m currently learning<br>Dynamic Programming, Greedy Algorithms, Competitive Programming techniques, and multiple approaches to solve questions on arrays, strings, trees, stacks, and queues.<br>⚡ Fun fact<br>I love challenges — if I can't solve a problem, I take it personally! I try every possible approach and keep thinking, “How can this question not be solvable by me?” 💪🧠
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riya-katiyar-274a54240/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@katiyarriya4532) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Riyakatiyar90) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katiyarriya4532@gmail.com) 
-[![Github](https://camo.githubusercontent.com/f1fbce44786ee4edcf97a717cce6c15cfc38a1f098efb08f11c1c80dd595a909/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)](https://github.com/Riyakatiyar9090)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riyakatiyar9090) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@katiyarriya4532) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Riyakatiyar90) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katiyarriya4532@gmail.com) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Riyakatiyar9090&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Riyakatiyar9090&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyakatiyar9090&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Riyakatiyar9090&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Riyakatiyar9090&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyakatiyar9090&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Riyakatiyar9090&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Riyakatiyar9090&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Riyakatiyar9090&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Riyakatiyar9090&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Riyakatiyar9090&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Riyakatiyar9090&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
